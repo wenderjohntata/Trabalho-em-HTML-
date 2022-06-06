@@ -1,2 +1,2 @@
-# Trabalho-em-HTML-
-Estudos sobre HTML .
+# Estudos HTML-
+Repositorio referente aos estudos sobre desenvolvimento HTML .
